@@ -16,7 +16,9 @@ jobs:
           submodules: true
 
       - name: Install Zola
-        uses: taiki-e/install-action@zola
+        uses: taiki-e/install-action@v2
+        with:
+          tool: zola
 
       - name: Build site
         run: zola build --base-url "https://roderic.me"
