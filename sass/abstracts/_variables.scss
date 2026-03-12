@@ -1,0 +1,23 @@
+// Stub mixins for theme variables
+@mixin colors-accent($scheme) {
+    // accent color vars - provided by theme at runtime via CSS vars
+}
+
+@mixin variables($scheme) {
+    // theme variables - provided by theme at runtime via CSS vars  
+}
+
+@mixin chip {
+    border-radius: 999px;
+    padding: 0.25rem 0.75rem;
+    font-size: 0.875rem;
+}
+
+@mixin gradient-fill($state: null) {
+    background: linear-gradient(to bottom right, var(--bg-color, #1a1a2e), var(--bg-muted-1, #16213e));
+}
+
+@mixin fancy-card {
+    outline: 1px solid var(--bg-muted-2, rgba(255,255,255,0.1));
+    box-shadow: var(--edge-highlight, none), var(--shadow-glass, 0 4px 24px rgba(0,0,0,0.2));
+}

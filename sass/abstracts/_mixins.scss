@@ -1,0 +1,32 @@
+@use "functions" as *;
+@use "variables" as *;
+
+@mixin fancy-card {
+    outline: 1px solid var(--bg-muted-2);
+    box-shadow: var(--edge-highlight), var(--shadow-glass);
+    background-image: radial-gradient(
+            circle,
+            var(--bg-muted-1) rpx(1),
+            transparent rpx(1)
+        ),
+        linear-gradient(
+            to bottom right,
+            var(--bg-color) 50%,
+            var(--bg-muted-1),
+            var(--bg-muted-2)
+        );
+    background-size: 1rem 1rem, auto;
+}
+
+@mixin chip {
+    border-radius: 999px;
+    padding: 0.25rem 0.75rem;
+    font-size: 0.875rem;
+}
+
+@mixin gradient-fill($state: null) {
+    background: linear-gradient(to bottom right, var(--bg-color), var(--bg-muted-1));
+}
+
+@mixin colors-accent($scheme) {}
+@mixin variables($scheme) {}

@@ -1,0 +1,9 @@
+// Stub: converts px value to rem
+@function rpx($px) {
+    @return #{$px / 16}rem;
+}
+
+// Stub: returns a color value  
+@function palette($name, $shade: null) {
+    @return unquote("var(--#{$name})");
+}

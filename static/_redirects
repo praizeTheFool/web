@@ -1,0 +1,15 @@
+# Social Media Redirects
+/youtube https://www.youtube.com/@Axenide 302
+/twitch https://www.twitch.tv/Axenide 302
+/twitter https://x.com/Axenide 302
+/x https://x.com/Axenide 302
+/instagram https://www.instagram.com/Axenide 302
+/github https://github.com/Axenide 302
+# /discord page now exists as a proper page, redirect removed
+/kofi https://ko-fi.com/Axenide 302
+
+# Temporal donate link
+/donate https://ko-fi.com/Axenide 301
+
+# Easter Eggs
+/newshell https://www.youtube.com/watch?v=dQw4w9WgXcQ 302
