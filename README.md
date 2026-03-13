@@ -1,4 +1,3 @@
-# Welcome
 
 What's up ladies and gentlemen, and welcome.
 
