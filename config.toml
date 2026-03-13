@@ -1,6 +1,6 @@
 base_url = "https://roderic.me/"
 title = "Rahul"
-description = "I build things to understand them."
+description = "What's up ladies and gentlemen, and welcome."
 theme = "ametrine"
 compile_sass = true
 build_search_index = true
