@@ -28,6 +28,11 @@ links = [
 
 <div align="center" style="margin: 2rem 0 1.5rem 0; background: transparent;">
   <img src="moonveil-logo.png" alt="Moonveil Logo" class="transparent drop-shadow no-hover" style="max-width: 400px; width: 100%; background: transparent !important;" />
+    <div align="center">
+
+<mark>A ***Ex**tremely* customizable and Usability dots.</mark>
+
+</div>
 </div>
 
 
