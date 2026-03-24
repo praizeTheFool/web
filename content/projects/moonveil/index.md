@@ -82,4 +82,6 @@ Moonveil Web is the companion documentation and showcase site, giving Moonveil a
 
 ## Contributing
 
-This project is currently a personal setup. Contributions aren't open yet but if you find a bug or have a suggestion, feel free to open an issue on [GitHub](https://github.com/notcandy001/Moonveil).
+Contributions are welcome!
+Bug reports, suggestions, and feature contributions are encouraged.  
+Feel free to open an issue or submit a pull request. [GitHub](https://github.com/notcandy001/Moonveil).
