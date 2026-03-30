@@ -1,0 +1,48 @@
+base_url = "https://roderic.me/"
+title = "Rahul"
+description = "What's up ladies and gentlemen, and welcome."
+theme = "ametrine"
+compile_sass = true
+build_search_index = true
+default_language = "en"
+feed_filenames = ["atom.xml", "rss.xml"]
+
+taxonomies = [
+    {name = "categories", feed = true},
+    {name = "tags", feed = true},
+]
+
+[markdown]
+smart_punctuation = true
+github_alerts = true
+
+[markdown.highlighting]
+theme = "github-dark"
+
+[extra]
+styles = ["custom.css"]
+accent_color = "hsl(0, 0%, 75%)"
+date_format = "%d %b %Y"
+audio_button = true
+
+[extra.meta]
+favicon = true
+
+[extra.nav]
+icon = "images/avatar.png"
+links = [
+	{ name = "Personal", category = [
+    { url = "@/blog/_index.md", name = "Blog", icon = "newspaper-clipping" },
+    { url = "@/projects/_index.md", name = "Projects", icon = "cube" },
+	] },
+]
+
+[extra.footer]
+copyright = "© $YEAR Rahul"
+show_powered_by = true
+show_timestamp = true
+socials = [
+    { url = "https://github.com/notcandy001", icon = "github" },
+    { url = "https://www.reddit.com/user/praizeTheFool/", icon = "reddit" },
+    { url = "https://instagram.com", icon = "instagram" },
+]
