@@ -34,20 +34,6 @@
 
 :root {
   --font-sans-serif: "Roboto Condensed", "Geist", sans-serif;
-
-  /* Fallback vars matching ametrine dark warm-brown palette */
-  --bg-color: #171410;
-  --bg-muted-1: #1f1c18;
-  --bg-muted-2: #2a2622;
-  --bg-muted-3: #35312d;
-  --bg-muted-4: #403c38;
-  --fg-color: #e0d8cc;
-  --fg-muted-1: #a09080;
-  --fg-muted-2: #807060;
-  --fg-muted-3: #605048;
-  --shadow: 0 2px 8px rgba(0,0,0,0.5);
-  --shadow-glass: 0 4px 24px rgba(0,0,0,0.4);
-  --edge-highlight: inset 0 1px 0 rgba(255,255,255,0.07);
   --transition: 0.2s ease;
   --transition-bezier: 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
   --transition-long: 0.5s ease;
@@ -55,8 +41,42 @@
   --rounded-corner-small: 0.5rem;
   --active: scale(0.97);
   --disabled-opacity: 0.5;
-  --drop-shadow: drop-shadow(0 4px 6px rgba(0,0,0,0.3));
   --font-size-medium: 1rem;
+}
+
+/* ── Dark mode (default) ── */
+:root,
+[data-theme="dark"] {
+  --bg-color: #000000;
+  --bg-muted-1: #0a0a0a;
+  --bg-muted-2: #141414;
+  --bg-muted-3: #1e1e1e;
+  --bg-muted-4: #282828;
+  --fg-color: #e8e8e8;
+  --fg-muted-1: #a0a0a0;
+  --fg-muted-2: #787878;
+  --fg-muted-3: #505050;
+  --shadow: 0 2px 8px rgba(0,0,0,0.8);
+  --shadow-glass: 0 4px 24px rgba(0,0,0,0.7);
+  --edge-highlight: inset 0 1px 0 rgba(255,255,255,0.06);
+  --drop-shadow: drop-shadow(0 4px 6px rgba(0,0,0,0.5));
+}
+
+/* ── Light mode ── */
+[data-theme="light"] {
+  --bg-color: #f5f5f5;
+  --bg-muted-1: #ebebeb;
+  --bg-muted-2: #e0e0e0;
+  --bg-muted-3: #d4d4d4;
+  --bg-muted-4: #c8c8c8;
+  --fg-color: #111111;
+  --fg-muted-1: #444444;
+  --fg-muted-2: #666666;
+  --fg-muted-3: #888888;
+  --shadow: 0 2px 8px rgba(0,0,0,0.12);
+  --shadow-glass: 0 4px 24px rgba(0,0,0,0.08);
+  --edge-highlight: inset 0 1px 0 rgba(255,255,255,0.8);
+  --drop-shadow: drop-shadow(0 4px 6px rgba(0,0,0,0.1));
 }
 
 /* Daudix Components - Imported directly */
@@ -743,13 +763,21 @@ section h3:target {
 
 
 
-/* Moonveil page - blue tinted background (pre-computed from hsl(215,100%,67%) 8% mix) */
+/* Moonveil page - slight blue tint on pure black base */
 html[style*="215"] {
-  --bg-color: #1a1c1e;
-  --bg-muted-1: #23262a;
-  --bg-muted-2: #2d2f33;
-  --bg-muted-3: #37393d;
-  --bg-muted-4: #414347;
+  --bg-color: #000305;
+  --bg-muted-1: #05080d;
+  --bg-muted-2: #0a0e14;
+  --bg-muted-3: #10151c;
+  --bg-muted-4: #171d25;
+}
+
+html[data-theme="light"][style*="215"] {
+  --bg-color: #f0f2f5;
+  --bg-muted-1: #e5e8ed;
+  --bg-muted-2: #d9dde4;
+  --bg-muted-3: #cdd2da;
+  --bg-muted-4: #c2c7d1;
 }
 
 /* Transparent images - remove any background (ametrine .transparent class) */
