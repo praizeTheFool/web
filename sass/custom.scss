@@ -789,18 +789,26 @@ p img.transparent {
   background: transparent !important;
 }
 
-/* ── mark highlight — stands out on black ── */
-mark {
-  background-color: hsl(10, 25%, 22%) !important;
-  color: hsl(10, 40%, 80%) !important;
-  border-radius: 0.25rem;
-  padding: 0.05em 0.3em;
+/* ── mark highlight — almost black but visible ── */
+html body mark,
+html body p mark,
+html body span mark {
+  background-color: #111111 !important;
+  color: #aaaaaa !important;
+  border: 1px solid #252525 !important;
 }
 
-[data-theme="light"] mark {
-  background-color: hsl(10, 60%, 88%) !important;
-  color: hsl(10, 40%, 25%) !important;
+html[data-theme="light"] body mark,
+html[data-theme="light"] body p mark {
+  background-color: #e0e0e0 !important;
+  color: #333333 !important;
+  border: 1px solid #c8c8c8 !important;
 }
+
+/* Psst / small / muted text — force grey, kill brown */
+html body small { color: #555555 !important; }
+html body .scroll-indicator,
+html body .arrow-note { color: #555555 !important; }
 
 /* ── Force black palette over ametrine's own theme vars ── */
 :root:not([data-theme="light"]):not([style*="215"]),
@@ -811,9 +819,9 @@ html[data-theme="dark"]:not([style*="215"]) {
   --bg-muted-3: #1e1e1e !important;
   --bg-muted-4: #282828 !important;
   --fg-color: #e8e8e8 !important;
-  --fg-muted-1: #a0a0a0 !important;
-  --fg-muted-2: #787878 !important;
-  --fg-muted-3: #505050 !important;
+  --fg-muted-1: #555555 !important;
+  --fg-muted-2: #555555 !important;
+  --fg-muted-3: #555555 !important;
 }
 
 html[data-theme="light"]:not([style*="215"]) {

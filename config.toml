@@ -21,7 +21,7 @@ theme = "github-dark"
 
 [extra]
 styles = ["custom.css"]
-accent_color = "hsl(10, 25%, 65%)"
+accent_color = "hsl(0, 0%, 60%)"
 date_format = "%d %b %Y"
 audio_button = true
 
