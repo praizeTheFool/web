@@ -789,6 +789,19 @@ p img.transparent {
   background: transparent !important;
 }
 
+/* ── mark highlight — stands out on black ── */
+mark {
+  background-color: hsl(10, 25%, 22%) !important;
+  color: hsl(10, 40%, 80%) !important;
+  border-radius: 0.25rem;
+  padding: 0.05em 0.3em;
+}
+
+[data-theme="light"] mark {
+  background-color: hsl(10, 60%, 88%) !important;
+  color: hsl(10, 40%, 25%) !important;
+}
+
 /* ── Force black palette over ametrine's own theme vars ── */
 :root:not([data-theme="light"]):not([style*="215"]),
 html[data-theme="dark"]:not([style*="215"]) {
