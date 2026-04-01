@@ -7,116 +7,106 @@ description = "Some things about me you probably didn't know i hope u will read 
 tags = ["personal"]
 +++
 
+
 This is the tale of a fool whose love was returned by no one but her silence.
 
+---
 
-## Chapter 1: The Beginning That Didn’t Feel Like One
+## Chapter 1: The Beginning You Don’t Notice
 
-He liked a girl.
+It doesn’t start loudly.
 
-Not in the way people usually describe love.  
-There was no sudden moment. No dramatic realization.
+You don’t wake up one day and decide you like someone.  
+It happens quietly. Slowly.
 
-It just… happened.
+In small moments.  
+In conversations that didn’t seem important at the time.
 
-In conversations. In small observations.  
-In the way she existed without trying to be noticed.
+And before you realize it,  
+someone becomes part of your thoughts more than they should.
 
-And before he could even understand what he felt,  
-there was a moment that stayed with him.
+There was a moment.
+
+A simple one.
 
 She asked him to meet.
 
-A simple thing. Something anyone could say.  
-But when you’re a fool in love, even the smallest things begin to carry weight.
+To anyone else, it would mean nothing.  
+But when you’re already leaning toward someone, even slightly,  
+you start giving meaning to things that were never meant to carry any.
 
-To the world, it was nothing.  
-To him, it was the beginning of something.
+And that’s how it begins.
 
-Not something real.
+Not with love.
 
-But something he believed in.
+But with belief.
 
 > “I was not expecting you nor was my soul searching for anyone yet,  
 > you showed up as if the moon had whispered my need,  
 > you aren’t just a part of my life, you are the life itself.”
 
-And just like that, without her knowing,  
-she became important in a story she never chose to be part of.
+---
 
+## Chapter 2: The Truth You Already Know
 
-## Chapter 2: The Courage That Came Too Late
+You don’t confess because you’re ready.
 
-He didn’t rush.
+You confess because you can’t carry it anymore.
 
-He stayed quiet for a long time,  
-trying to understand his own feelings before giving them a name.
+So he told her.
 
-Because he wasn’t the kind of person who loved easily.
+Not perfectly.  
+Not in the way stories make it look beautiful.
 
-But when he did,  
-he loved honestly.
+Just honestly.
 
-So one day, he said it.
-
-No rehearsed lines.  
-No perfect timing.
-
-Just truth.
-
-And she answered him with the same simplicity.
+And sometimes, honesty doesn’t change anything.
 
 She said she wasn’t interested in this generation’s love.
 
 No confusion.  
 No mixed signals.
 
-Just clarity.
+Just a clear answer.
 
-And sometimes, clarity hurts more than rejection.
+And the worst part about a clear answer is  
+you can’t fight it.
 
-Because rejection leaves questions.  
-But clarity leaves none.
+There’s nothing to question.  
+Nothing to hold onto.
 
-It closes every door at once.
+Just acceptance.
 
-And all you’re left with… is silence.
+---
 
+## Chapter 3: The Things That Never Happened
 
-## Chapter 3: The Things That Stayed Unsaid
+You think it’s the big moments that stay.
 
-He accepted it.
+It’s not.
 
-Not because it didn’t hurt.  
-But because he knew love cannot be forced.
+It’s the small ones that never happened.
 
-Still, there were things that stayed.
-
-Words he never said properly.  
-Feelings he never showed fully.
-
-And one small thing.
+There was something he wanted to do.
 
 A chocolate.
 
-Something so simple that it should have meant nothing.  
-But to him, it meant everything.
+Not something important.  
+Not something that should matter.
 
-Because it wasn’t about the chocolate.
+But somehow, it did.
 
-It was about the intention behind it.
+Because it wasn’t about what it was.
+
+It was about what it meant.
 
 Later, he told her he couldn’t give it.  
-That he couldn’t fulfill that small wish.
+He couldn’t fulfill that small wish.
 
 She said okay.
 
-And somehow, that “okay” stayed with him longer than anything else.
-
-Because sometimes,  
-it’s not the big things that break you.
-
-It’s the small ones that never happened.
+And sometimes, a simple “okay”  
+feels heavier than a goodbye.
 
 > “The writer’s last wish,  
 > As I lay down my pen, for the final time,  
@@ -125,164 +115,149 @@ It’s the small ones that never happened.
 > But alas, my love was not enough, to make you stay.  
 > Forever in my heart, a love that was never gained.”
 
+---
 
-## Chapter 4: The Disappearance That Wasn’t Enough
+## Chapter 4: The Leaving That Looks Like Strength
 
-He unfollowed her.
+You don’t always leave because you’re strong.
 
-Not out of anger.  
-Not out of ego.
+Sometimes you leave  
+because staying hurts more.
 
-But because staying felt heavier than leaving.
+So he unfollowed her.
 
-So he chose distance.
+No message.  
+No drama.
 
-He chose silence.
+Just distance.
 
-He chose to disappear from a place where he was never really present.
+And from the outside,  
+it looks like moving on.
 
-And for a while, it worked.
+But inside,  
+things don’t end that easily.
 
-Or at least, it looked like it did.
+---
 
-Because the outside can look calm,  
-even when the inside is not.
+## Chapter 5: The Way It Comes Back
 
+You think you’re okay.
 
-## Chapter 5: The Way Memory Returns
+Until something small reminds you.
 
-One day, while doing nothing special,  
-he saw someone.
+A face.  
+A voice.  
+A detail you weren’t expecting.
 
-A random girl.
+For him, it was something simple.
 
-Passing by.
+A girl passing by.
 
-There was nothing important about that moment.  
-Nothing meaningful.
+Nothing special.
 
 Except one thing.
 
 Her hair.
 
-It was the same.
+And just like that, everything returns.
 
-And just like that, without warning,  
-everything came back.
+Because memory doesn’t ask you if you’re ready.
 
-Not slowly.  
-Not gently.
+It just shows up.
 
-All at once.
+---
 
-Because memory doesn’t ask for permission.
+## Chapter 6: The Dream You Can’t Explain
 
-It doesn’t wait for you to be ready.
+And then come the dreams.
 
-It simply returns.
+The kind that don’t feel like dreams.
 
+The kind that stay even after you wake up.
 
-## Chapter 6: The Dream That Felt Too Real
-
-That night, he saw her.
-
-Not in reality.
-
-In a dream.
+He saw her.
 
 She was crying.
 
 Not softly.  
-Not quietly.
+Not in a way you can ignore.
 
-But in a way that made it hard for him to even look at her.
+The kind of crying that makes you feel helpless just by looking.
 
 She held his hands tightly.  
-Her arms crossed with his, as if she didn’t want to let go.
+As if letting go wasn’t an option.
 
 He couldn’t clearly see her face at first.
 
-But he knew.
+But he didn’t need to.
 
-It was her.
+You always know.
 
-And she kept repeating the same thing again and again—
+And she kept repeating the same thing—
 
 That she shouldn’t have said that.  
-That she shouldn’t have said that.  
-That she shouldn’t have said that.
+Again.  
+And again.
 
-He didn’t understand.
+And no matter how many times you hear it,  
+you still don’t understand what it means.
 
-And that’s what stayed with him the most.
+---
 
-Not the dream itself.
+## Chapter 7: The Version That Never Existed
 
-But the meaning he couldn’t find in it.
+Then comes the other kind of dream.
 
+The dangerous one.
 
-## Chapter 7: The Life That Never Existed
-
-Another night.  
-Another dream.
-
-But this time, it was different.
-
-There was no pain.  
-No confusion.
+The one where everything is okay.
 
 It felt like a school festival.
 
-There was laughter.  
-Noise.  
-Life.
+Noise. Laughter. Life.
 
 And she was there.
 
 Not distant.  
-Not unreachable.
+Not gone.
 
 Just there.
 
-As if nothing had ever gone wrong.
+Like nothing ever ended.
 
-As if the story had chosen a different path.
+Like everything worked out.
 
-And then he saw something that stayed with him.
+And that’s when he saw it—
 
 Her name.
 
 On him.
 
-Like a tattoo.
+Like something permanent.
 
-Permanent.  
-Unfading.
-
-As if some part of him had already decided to keep her,  
-even in a reality where she was never his.
+Like something that was always meant to stay.
 
 > “They said, once he loved her so much,  
 > he killed his own throne and bled to keep her alive.”
 
-## Chapter 8: The Truth He Couldn’t Avoid
+---
 
-He woke up.
+## Chapter 8: The Truth You Avoid
 
-Not confused.  
-Not shocked.
+You don’t wake up confused.
 
-Just quiet.
+You wake up quiet.
 
-Because deep down, he understood something.
+Because somewhere inside,  
+you already know the truth.
 
-He wasn’t holding onto her anymore.
+It’s not about her anymore.
 
-He was holding onto something else.
+It’s about what you thought it could be.
 
-A version of her.  
-A version of himself.  
-A version of life.
+The version of her.  
+The version of you.  
+The version of everything.
 
 That never became real.
 
@@ -293,50 +268,53 @@ That never became real.
 > to hold her,  
 > to keep her to himself.”
 
+---
 
-## Chapter 9: The Aftermath
+## Chapter 9: The Aftermath That Stays
 
-Now, when he thinks about it,  
-something has changed.
+It doesn’t hurt the same way anymore.
 
-The pain is not the same.
+But it doesn’t leave either.
 
-But the feeling hasn’t completely left.
+It just… changes.
 
-It just… sits quietly.
+Becomes quieter.  
+Heavier in a different way.
 
-And when it comes back,  
-it comes in waves.
+And sometimes,  
+it comes back in moments you didn’t expect.
 
-Moments of “what if.”  
-Moments of “maybe.”
+Now, loving someone again feels different.
 
-Moments that don’t last long,  
-but stay long enough to be felt.
+Not impossible.
 
-Now, he doesn’t feel like loving anyone.
+Just… paused.
 
-Not because he can’t.
+Because once,  
+you loved honestly.
 
-But because once,  
-he loved honestly.
+And that changes how you look at everything after.
 
-And sometimes, that changes everything.
+---
 
+## Chapter 10: The Words That Remain
 
-## Chapter 10: The Words That Remained
+In the end,  
+you don’t go back.
 
-In the end, he didn’t go back.
+You don’t fix it.
 
-He didn’t try again.
+You don’t get closure.
 
-He didn’t look for closure.
+You just learn to live with it.
 
-He just wrote.
+And sometimes,  
+you write.
 
-Because some things are not meant to be said to people.
+Not for them.
 
-They are meant to be written.
+But because it’s the only place  
+those feelings can exist without being questioned.
 
 > “In the end, I’m writing the verse  
 > I once meant to share with you,  
@@ -344,5 +322,7 @@ They are meant to be written.
 > I’m writing your presence into my poems,  
 > through words that speak directly to my soul.”
 
+---
 
 And this is how the tale of the fool ended.
+
