@@ -1,0 +1,48 @@
+{%- set anime_data = load_data(path=“data/anime.toml”) -%}
+{%- set all_anime = anime_data.anime -%}
+
+{%- if all_anime | length > 8 -%}
+<input class="visually-hidden" id="show-more-anime" type="checkbox" name="show-more-anime" autocomplete="off" />
+<label for="show-more-anime">
+<span class="more">Show More…</span>
+<span class="less">Show Less…</span>
+</label>
+{%- endif -%}
+
+<ul class="anime-grid">
+{%- for item in all_anime -%}
+	{%- if loop.index == 9 -%}
+</ul>
+<ul class="anime-grid anime-grid-extra">
+	{%- endif -%}
+
+```
+{%- set jikan = load_data(
+	url="https://api.jikan.moe/v4/anime/" ~ item.mal_id,
+	format="json",
+	required=false
+) -%}
+
+{%- if jikan and jikan.data -%}
+	{%- set img_url = jikan.data.images.jpg.large_image_url -%}
+{%- else -%}
+	{%- set img_url = "" -%}
+{%- endif -%}
+
+{%- if img_url -%}
+<li>
+	<a href="{{ item.url }}" title="{{ item.title }}" target="_blank" rel="noopener noreferrer">
+		<img
+			class="transparent no-hover"
+			alt="{{ item.title }}"
+			src="{{ img_url }}"
+			{% if config.markdown.lazy_async_image %}decoding="async" loading="lazy"{% endif %}
+		/>
+	</a>
+</li>
+{%- endif -%}
+```
+
+{%- endfor -%}
+
+</ul>
