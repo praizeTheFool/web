@@ -5,6 +5,9 @@ description = "A quiet story about love, memory, and the things that never happe
 
 [taxonomies]
 tags = ["personal story"]
+
+[extra]
+accent_color = "hsl(340, 35%, 60%)"
 +++
 
 
@@ -338,4 +341,3 @@ And maybe…
 this isn’t where it truly ends.
 
 [Continue to the next part →](/blog/2026-04-03/)
-

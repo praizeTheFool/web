@@ -772,6 +772,24 @@ html[style*="215"] {
   --bg-muted-4: #414347;
 }
 
+/* Blog post 1 - dusty rose/mauve tint (hsl 340) — loss, aftermath, quiet ache */
+html[style*="340"] {
+  --bg-color: #1c181a;
+  --bg-muted-1: #241e21;
+  --bg-muted-2: #2d2428;
+  --bg-muted-3: #362a2f;
+  --bg-muted-4: #3f3036;
+}
+
+/* Blog post 2 - warm amber/gold tint (hsl 38) — first glances, warmth, hope */
+html[style*="--accent-dark-h: 38"] {
+  --bg-color: #1c1a16;
+  --bg-muted-1: #24211b;
+  --bg-muted-2: #2d2820;
+  --bg-muted-3: #362f26;
+  --bg-muted-4: #3f362b;
+}
+
 /* Transparent images - remove any background (ametrine .transparent class) */
 img.transparent,
 img.no-hover,
@@ -811,8 +829,8 @@ html body .scroll-indicator,
 html body .arrow-note { color: #555555 !important; }
 
 /* ── Force black palette over ametrine's own theme vars ── */
-:root:not([data-theme="light"]):not([style*="215"]),
-html[data-theme="dark"]:not([style*="215"]) {
+:root:not([data-theme="light"]):not([style*="215"]):not([style*="340"]):not([style*="--accent-dark-h: 38"]),
+html[data-theme="dark"]:not([style*="215"]):not([style*="340"]):not([style*="--accent-dark-h: 38"]) {
   --bg-color: #000000 !important;
   --bg-muted-1: #0a0a0a !important;
   --bg-muted-2: #141414 !important;
@@ -824,7 +842,7 @@ html[data-theme="dark"]:not([style*="215"]) {
   --fg-muted-3: #555555 !important;
 }
 
-html[data-theme="light"]:not([style*="215"]) {
+html[data-theme="light"]:not([style*="215"]):not([style*="340"]):not([style*="--accent-dark-h: 38"]) {
   --bg-color: #f5f5f5 !important;
   --bg-muted-1: #ebebeb !important;
   --bg-muted-2: #e0e0e0 !important;

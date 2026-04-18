@@ -1,10 +1,13 @@
 +++
 title = "The Tale of the Fool"
-date = 2026-04-03
+date = 2025-12-30
 description = "A quiet story about love, memory, and the things that never happened i hope u read it  :) "
 
 [taxonomies]
 tags = ["continuation"]
+
+[extra]
+accent_color = "hsl(38, 60%, 62%)"
 +++
 
 ## Chapter 11: The First Time You Notice
